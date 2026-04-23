@@ -1,6 +1,6 @@
 # Adults Videos
 
-<img src="https://github.com/Habib4326/televizo_playlist/blob/main/fanart(8).jpg" width="300" align="right">
+<img src="https://github.com/Habib4326/televizo_playlist/blob/main/fanart(8).jpg width="300" align="right">
 
 
 
