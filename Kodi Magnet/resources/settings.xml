@@ -1,0 +1,15 @@
+<settings>
+    <category label="General">
+
+        <setting id="enable_stream"
+                 type="bool"
+                 label="Enable Streaming"
+                 default="true"/>
+
+        <setting id="show_fanart"
+                 type="bool"
+                 label="Show Fanart"
+                 default="true"/>
+
+    </category>
+</settings>
